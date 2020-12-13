@@ -1,6 +1,4 @@
 /* 
- * Sarah McLaughlin - skm9b3
- * 14237628
  * 23 November 2020
  * Assignment 4 - Prolog Programming
  */
